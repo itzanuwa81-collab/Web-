@@ -1,4 +1,4 @@
-# 🎬 Chama Movie Portal - Frontend Web App
+# 🎬 Anuwa Movie Portal - Frontend Web App
 
 A modern, responsive Movie & TV Series discovery web app built with **React + Vite**.
 
