@@ -3,14 +3,14 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore, collection, addDoc } from 'firebase/firestore';
 import { getDatabase, ref, push, set, onValue } from 'firebase/database';
 const firebaseConfig = {
-  apiKey: "AIzaSyBEve180MsxdPbrqTUm7kG_oMG2XwnI8qg",
+  apiKey: "AIzaSyBCdx-Z0x4vnXJv0mOgzeItHNFYLcrzJZM",
   authDomain: "movie-sender-d1222.firebaseapp.com",
   databaseURL: "https://movie-sender-d1222-default-rtdb.firebaseio.com/",
-  projectId: "wa-sendr-bot",
-  storageBucket: "wa-sendr-bot.firebasestorage.app",
-  messagingSenderId: "1093291845916",
-  appId: "1:1093291845916:web:0582ff2ec230f7085d72d9",
-  measurementId: "G-8BD8KW25TS"
+  projectId: "movie-sender-d1222",
+  storageBucket: "movie-sender-d1222.firebasestorage.app",
+  messagingSenderId: "201879075737",
+  appId: "1:201879075737:web:9552a84be6dcd2e5207108",
+  measurementId: "G-HFFSQGG27B"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
