@@ -352,7 +352,7 @@ body {
 `;
 
 // All API calls go through Bot Server proxy — API key never exposed to browser
-const BOT_SERVER_URL = 'https://chama-whatsapp-bot-server-5f9b1c87273d.herokuapp.com';
+const BOT_SERVER_URL = 'https://shadow-movie-sender-web-production.up.railway.app';
 const PROXY_URL = `${BOT_SERVER_URL}/api/proxy`;
 const PROXY_SECRET = 'chama_proxy_x9k2m8v3n1';
 
