@@ -4,7 +4,7 @@ import { getFirestore, collection, addDoc } from 'firebase/firestore';
 import { getDatabase, ref, push, set, onValue } from 'firebase/database';
 const firebaseConfig = {
   apiKey: "AIzaSyBEve180MsxdPbrqTUm7kG_oMG2XwnI8qg",
-  authDomain: "wa-sendr-bot.firebaseapp.com",
+  authDomain: "movie-sender-d1222.firebaseapp.com",
   databaseURL: "https://movie-sender-d1222-default-rtdb.firebaseio.com/",
   projectId: "wa-sendr-bot",
   storageBucket: "wa-sendr-bot.firebasestorage.app",
