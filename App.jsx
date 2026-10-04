@@ -1168,10 +1168,10 @@ export default function App() {
             boxShadow: '0 4px 15px rgba(37,211,102,0.35)',
             position: 'relative'
           }}>
-            <img src="https://cloud.laksidu.site/dl/Ha3kuKFWmq/lakiya-1791110763963.jpg" alt="CHAMA" style={ width: '26px', height: '26px', borderRadius: '8px', objectFit: 'cover' } onError={e => e.currentTarget.style.display = 'none'} />
+            <img src="https://cloud.laksidu.site/dl/Ha3kuKFWmq/lakiya-1791110763963.jpg" alt="CHAMA" style={{ width: '26px', height: '26px', borderRadius: '8px', objectFit: 'cover' }} onError={e => e.currentTarget.style.display = 'none'} />
           </div>
           <div>
-            <div style={{ fontWeight: '900', fontSize: '15px', letterSpacing: '0.5px', color: '#f1f5f9' }}>CHAMA CINE HUB</div>
+            <div style={{ fontWeight: '900', fontSize: '15px', letterSpacing: '0.5px', color: '#f1f5f9' }}>SHADOW x SENDER</div>
             <div style={{ fontSize: '10px', color: '#64748b', fontWeight: '600', letterSpacing: '1px' }}>DIRECT WHATSAPP DELIVERY</div>
           </div>
         </div>
